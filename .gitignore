@@ -5,3 +5,6 @@
 *.elf
 *.exe
 *.tmp
+*.swp
+origins.txt
+
